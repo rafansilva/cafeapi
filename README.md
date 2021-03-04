@@ -7,7 +7,7 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build](https://img.shields.io/scrutinizer/build/g/rafansilva/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/rafansilva/cafeapi)
 [![Quality Score](https://img.shields.io/scrutinizer/g/rafansilva/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/rafansilva/cafeapi)
-[![Total Downloads](https://img.shields.io/packagist/dt/rafansilva/cafeapi.svg?style=flat-square)](https://packagist.org/packages/crafansilva/cafeapi)
+[![Total Downloads](https://img.shields.io/packagist/dt/rafansilva/cafeapi.svg?style=flat-square)](https://packagist.org/packages/rafansilva/cafeapi)
 
 ###### CaféApi Library is a small set of classes developed in UpInside's Full Stack PHP Developer training for integration into the webservice of a SaaS platform developed in the course..
 
@@ -156,9 +156,9 @@ Please see [CONTRIBUTING](https://github.com/rafansilva/cafeapi/blob/master/CONT
 
 ## Support
 
-###### Security: If you discover any security related issues, please email meu@email.com.br instead of using the issue tracker.
+###### Security: If you discover any security related issues, please email rafaelnascimento0505@gmail.com instead of using the issue tracker.
 
-Se você descobrir algum problema relacionado à segurança, envie um e-mail para meu@email.com.br em vez de usar o rastreador de problemas.
+Se você descobrir algum problema relacionado à segurança, envie um e-mail para rafaelnascimento0505@gmail.com em vez de usar o rastreador de problemas.
 
 Thank you
 
