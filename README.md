@@ -165,6 +165,7 @@ Thank you
 ## Credits
 
 - [Rafael N. Silva](https://github.com/rafansilva) (Developer)
+- [Robson V. Leite](https://github.com/robsonvleite) (Developer/Instructor)
 - [UpInside Treinamentos](https://github.com/robsonvleite) (School)
 - [All Contributors](https://github.com/rafansilva/cafeapi/contributors) (This Rock)
 
